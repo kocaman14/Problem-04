@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-link{
+    background-color: blue;
+    color: white;
+    border: 1px solid ;
+    border-radius: 5px;
+align-items: center;
+}
+.navbar-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
